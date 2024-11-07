@@ -1,5 +1,5 @@
 # 0. Installation
-Execute the SQL-Statements of your choice, in the World-Database of your Azerothcore. <br>
+Execute the SQL-Statements of your choice, in the World-Database of the Azerothcore. <br>
 
 # 0.1 Placing the NPC into World of Warcraft
 Login to World of Warcraft with your GameMaster-Account. <br>
