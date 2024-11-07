@@ -11,7 +11,7 @@ Use the Command &quot;.npc add 999001&quot; to spawn Greedy Joe permanently.<br>
 # Removing the NPC
 Select Greedy Joe as the target and use the Command &quot;.npc remove&quot;.<br>
 <br>
-# Warning
+## Warning
 The SQL-Code will change the Buy- and Sell-Prices of following Items:<br>
 <table>
 <tr>
