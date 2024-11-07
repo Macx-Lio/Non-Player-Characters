@@ -1,16 +1,16 @@
-# 0.0 Installation
+# 0. Installation
 Execute the SQL-Statements of your choice, in the World-Database of your Azerothcore. <br>
 
 # 0.1 Placing the NPC into World of Warcraft
-Login to World of Warcraft with your GameMaster-Account.
-Go with your Character to the Place, where you want to spawn the NPC.
-The NPC will look in the direction your Character is facing by spawing.
-Use the Command ".npc add [ID]" to spawn the NPC permanently.
+Login to World of Warcraft with your GameMaster-Account. <br>
+Go with your Character to the Place, where you want to spawn the NPC. <br>
+The NPC will look in the direction your Character is facing by spawing. <br>
+Use the Command ".npc add [ID]" to spawn the NPC permanently. <br>
 
 # 0.2 Removing the NPC from World of Warcraft
-Login to World of Warcraft with your GameMaster-Account.
-Go with your Character to the NPC, which you wish to remove.
-Select the NPC as Target and use the Command ".npc remove".
+Login to World of Warcraft with your GameMaster-Account. <br>
+Go with your Character to the NPC, which you wish to remove. <br>
+Select the NPC as Target and use the Command ".npc remove". <br>
 
 # 1. NPC-Greedy-Joe (ID: 999001)
 Greedy Joe is a Kobold NPC for the Azerothcore who sells Bags. <br>
@@ -51,7 +51,7 @@ The SQL-Code will change the BuyCount of follwoing Items:<br>
 | Stone Keepers Shard | 1 | 30 |
 | Arena Points | 1 | 10 |
 
-# 3.0 NPC-Tricky-John (ID: 999003)
+# 3. NPC-Tricky-John (ID: 999003)
 Tricky John is a Kobold NPC for Azerothcore who changes Emblems into other Emblems or Shards. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
@@ -67,7 +67,7 @@ The SQL-Code will change the BuyCount of follwoing Items: <br>
 | Emblem of Frost | 1 | 10 |
 | Stone Keepers Shard | 1 | 30 |
 
-# 4.0 NPC-Green-Jack (ID: 999004)
+# 4. NPC-Green-Jack (ID: 999004)
 Green Jack is a Kobold NPC for Azerothcore who sells Herbs. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
