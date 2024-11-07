@@ -77,10 +77,10 @@ Green Jack is a Kobold NPC for Azerothcore who sells Herbs. <br>
 Velvety Josh is a Kobold NPC for Azerothcore who sells Cloths. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
-<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/GreenJack.png"/>
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/VelvetyJosh.png"/>
 
 # 6. NPC-Creapy-Jaden (ID: 999006)
 Creapy Jaden is a Kobold NPC for Azerothcore who sells "Skins" (Leather). <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
-<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/GreenJack.png"/>
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/CreapyJaden.png"/>
