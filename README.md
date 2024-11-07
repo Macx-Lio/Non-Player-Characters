@@ -41,7 +41,7 @@ The SQL-Code will change the BuyCount of follwoing Items:<br>
 Tricky John is a Kobold NPC for Azerothcore who changes Emblems into other Emblems or Shards. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
-<img width="300px" src="https://github.com/Macx-Lio/NPC-Tricky-John/blob/main/TrickyJohn.png"/>
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/TrickyJohn.png"/>
 
 ## 3.1 Warning
 The SQL-Code will change the BuyCount of follwoing Items: <br>
@@ -57,4 +57,4 @@ The SQL-Code will change the BuyCount of follwoing Items: <br>
 Green Jack is a Kobold NPC for Azerothcore who sells Herbs. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
-<img width="300px" src="https://github.com/Macx-Lio/NPC-Green-Jack/blob/main/GreenJack.png"/>
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/GreenJack.png"/>
