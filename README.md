@@ -1,3 +1,17 @@
+# 0.0 Installation
+Execute the SQL-Statements of your choice, in the World-Database of your Azerothcore. <br>
+
+# 0.1 Placing the NPC into World of Warcraft
+Login to World of Warcraft with your GameMaster-Account.
+Go with your Character to the Place, where you want to spawn the NPC.
+The NPC will look in the direction your Character is facing by spawing.
+Use the Command ".npc add [ID]" to spawn the NPC permanently.
+
+# 0.2 Removing the NPC from World of Warcraft
+Login to World of Warcraft with your GameMaster-Account.
+Go with your Character to the NPC, which you wish to remove.
+Select the NPC as Target and use the Command ".npc remove".
+
 # 1. NPC-Greedy-Joe (ID: 999001)
 Greedy Joe is a Kobold NPC for the Azerothcore who sells Bags. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
