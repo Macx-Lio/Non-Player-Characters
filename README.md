@@ -2,7 +2,7 @@
 Greedy Joe is a Kobold NPC for the Azerothcore who sells Bags. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
-<img width="300px" src="https://github.com/Macx-Lio/NPC-Greedy-Joe/blob/main/GreedyJoe.png" />
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/GreedyJoe.png" />
 
 ## 1.1 Warning
 The SQL-Code will change the Buy- and Sell-Prices of following Items: <br>
