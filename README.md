@@ -1,3 +1,7 @@
+> [!NOTE]
+> I have made these NPC because my Family asked me about.
+> I did take the Kobold because you will cheat like a rat, by using them.
+
 # 0. Installation
 Execute the SQL-Statements of your choice, in the World-Database of the Azerothcore. <br>
 
