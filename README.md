@@ -7,8 +7,8 @@ Go with your Character to the Place, where you want to spawn the NPC. <br>
 The NPC will look in the direction your Character is facing by spawing. <br>
 Use the Command ".npc add [ID]" to spawn the NPC permanently. <br>
 
-[!TIP]
-I would place the NPC in Dalaran, then you Familie and Friends need to reach Level 74 first.
+> [!TIP]
+> I would place the NPC in Dalaran, then you Familie and Friends need to reach Level 74 first.
 
 # 0.2 Removing the NPC from World of Warcraft
 Login to World of Warcraft with your GameMaster-Account. <br>
