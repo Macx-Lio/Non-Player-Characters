@@ -72,6 +72,10 @@ Cunning Jim is a Kobold NPC for the Azerothcore who changes Honor into Emblems, 
 The SQL-Code will change the BuyCount of follwoing Items:<br>
 <b>These Changes are made to keept the Balance between the Currencies.<b><br>
 <b>These Changes are compatible to Tricky John.</b><br>
+# Warning
+The SQL-Code will change the BuyCount of follwoing Items:<br>
+<b>These Changes are made to keept the Balance between the Currencies.<b><br>
+<b>These Changes are compatible to Tricky John.</b><br>
 <table>
 <tr>
 <th>Name</th>
@@ -90,3 +94,7 @@ The SQL-Code will change the BuyCount of follwoing Items:<br>
 </tr>
 <tr>
 <td>Arena Points</td>
+<td>1</td>
+<td>10</td>
+</tr>
+</table>
