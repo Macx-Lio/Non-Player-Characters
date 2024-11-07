@@ -62,3 +62,30 @@ The SQL-Code will change the Buy- and Sell-Prices of following Items:<br>
 <td>9 Gold</td>
 </tr>
 </table>
+# NPC-Cunning-Jim
+Cunning Jim is a Kobold NPC for the Azerothcore who changes Honor into Emblems, Shards or Arena Points.<br>
+<b>You will need GameMaster-Rights to place the NPC into the World.</b><br>
+<br>
+<img width="300px" src="https://github.com/Macx-Lio/NPC-Cunning-Jim/blob/main/CunningJim.png"/>
+## Warning
+The SQL-Code will change the BuyCount of follwoing Items:<br>
+<b>These Changes are made to keept the Balance between the Currencies.<b><br>
+<b>These Changes are compatible to Tricky John.</b><br>
+<table>
+<tr>
+<th>Name</th>
+<th>From</th>
+<th>To</th>
+</tr>
+<tr>
+<td>Emblem of Frost</td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Stone Keepers Shard</td>
+<td>1</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Arena Points</td>
