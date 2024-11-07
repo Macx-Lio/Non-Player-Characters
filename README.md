@@ -36,3 +36,19 @@ The SQL-Code will change the BuyCount of follwoing Items:<br>
 | Emblem of Frost | 1 | 10 |
 | Stone Keepers Shard | 1 | 30 |
 | Arena Points | 1 | 10 |
+
+# 3.0 NPC-Tricky-John (ID: 999003)
+Tricky John is a Kobold NPC for Azerothcore who changes Emblems into other Emblems or Shards. <br>
+**You will need GameMaster-Rights to place the NPC into the World.** <br>
+<br>
+<img width="300px" src="https://github.com/Macx-Lio/NPC-Tricky-John/blob/main/TrickyJohn.png"/>
+
+## 3.1 Warning
+The SQL-Code will change the BuyCount of follwoing Items: <br>
+**These Changes are made to keept the Balance between the Currencies.** <br>
+**These Changes are compatible to Cunning Jim.** <br>
+
+| Name | From | To |
+| --- | --- | --- |
+| Emblem of Frost | 1 | 10 |
+| Stone Keepers Shard | 1 | 30 |
