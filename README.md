@@ -1,10 +1,10 @@
-# NPC-Greedy-Joe
+# 1. NPC-Greedy-Joe (ID: 999001)
 Greedy Joe is a Kobold NPC for the Azerothcore who sells Bags. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
 <img width="300px" src="https://github.com/Macx-Lio/NPC-Greedy-Joe/blob/main/GreedyJoe.png" />
 
-## Warning
+## 1.1 Warning
 The SQL-Code will change the Buy- and Sell-Prices of following Items: <br>
 
 | Name | Buy-Price | Sell-Price |
@@ -20,13 +20,13 @@ The SQL-Code will change the Buy- and Sell-Prices of following Items: <br>
 | Titanium Toolbox | 32 Gold | 9 Gold |
 | Trapper's Traveling Pack | 32 Gold | 9 Gold |
 
-# NPC-Cunning-Jim
+# 2. NPC-Cunning-Jim (ID: 999002)
 Cunning Jim is a Kobold NPC for the Azerothcore who changes Honor into Emblems, Shards or Arena Points. <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
 <img width="300px" src="https://github.com/Macx-Lio/NPC-Cunning-Jim/blob/main/CunningJim.png"/>
 
-##  Warning
+## 2.1 Warning
 The SQL-Code will change the BuyCount of follwoing Items:<br>
 **These Changes are made to keept the Balance between the Currencies.** <br>
 **These Changes are compatible to Tricky John.** <br>
