@@ -52,3 +52,9 @@ The SQL-Code will change the BuyCount of follwoing Items: <br>
 | --- | --- | --- |
 | Emblem of Frost | 1 | 10 |
 | Stone Keepers Shard | 1 | 30 |
+
+# 4.0 NPC-Green-Jack (ID: 999004)
+Green Jack is a Kobold NPC for Azerothcore who sells Herbs. <br>
+**You will need GameMaster-Rights to place the NPC into the World.** <br>
+<br>
+<img width="300px" src="https://github.com/Macx-Lio/NPC-Green-Jack/blob/main/GreenJack.png"/>
