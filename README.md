@@ -84,3 +84,21 @@ Creapy Jaden is a Kobold NPC for Azerothcore who sells "Skins" (Leather). <br>
 **You will need GameMaster-Rights to place the NPC into the World.** <br>
 <br>
 <img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/CreapyJaden.png"/>
+
+# 7. NPC-Stoney-Jamal (ID: 999007)
+Stoney Jamal is a Kobold NPC for Azerothcore who sells Ore and Stones. <br>
+**You will need GameMaster-Rights to place the NPC into the World.** <br>
+<br>
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/StoneyJamal.png"/>
+
+# 8. NPC-Glittery-Jason (ID: 999008)
+Glittery Jason is a Kobold NPC for Azerothcore who sells Gems. <br>
+**You will need GameMaster-Rights to place the NPC into the World.** <br>
+<br>
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/GlitteryJason.png"/>
+
+# 9. NPC-Eternal-Jerrik (ID: 999009)
+Eternal Jerrik is a Kobold NPC for Azerothcore who sells Essences. <br>
+**You will need GameMaster-Rights to place the NPC into the World.** <br>
+<br>
+<img width="300px" src="https://github.com/Macx-Lio/None-Player-Characters/blob/main/Screenshots/EternalJerrik.png"/>
