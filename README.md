@@ -10,7 +10,7 @@ Use the Command ".npc add [ID]" to spawn the NPC permanently. <br>
 # 0.2 Removing the NPC from World of Warcraft
 Login to World of Warcraft with your GameMaster-Account. <br>
 Go with your Character to the NPC, which you wish to remove. <br>
-Select the NPC as Target and use the Command ".npc remove". <br>
+Select the NPC as Target and use the Command ".npc delete". <br>
 
 # 1. NPC-Greedy-Joe (ID: 999001)
 Greedy Joe is a Kobold NPC for the Azerothcore who sells Bags. <br>
