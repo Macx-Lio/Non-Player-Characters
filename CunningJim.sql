@@ -6,7 +6,7 @@ SET
 @Model      := 2299, -- Greedy Kobold
 @Name       := "Cunning Jim",
 @Title      := "Exchange",
-@Icon       := "Speak",
+@Icon       := "Buy",
 @GossipMenu := 0, -- Does not need any Gossip
 @MinLevel   := 80,
 @MaxLevel   := 80,
