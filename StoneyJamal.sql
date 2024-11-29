@@ -6,7 +6,7 @@ SET
 @Model      := 2299, -- Greedy Kobold
 @Name       := "Stoney Jamal",
 @Title      := "Ore",
-@Icon       := "Trade",
+@Icon       := "Buy",
 @GossipMenu := 0, -- Does not need any Gossip
 @MinLevel   := 80,
 @MaxLevel   := 80,
