@@ -29,6 +29,9 @@ DELETE FROM `creature_template_model` WHERE `CreatureID` = @Entry;
 INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`) VALUES
 (@Entry, 0, @Model, @Scale, 1);
 
+-- ITEM PRICES
+UPDATE item_template SET BuyPrice = 1000 WHERE entry = 2318;
+
 -- NPC ITEMS
 DELETE FROM npc_vendor WHERE entry = @Entry;
 INSERT INTO npc_vendor (`entry`, `item`, `slot`) VALUES 
