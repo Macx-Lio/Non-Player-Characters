@@ -30,7 +30,7 @@ INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`,
 (@Entry, 0, @Model, @Scale, 1);
 
 -- ITEM PRICES
-UPDATE item_template SET BuyPrice = 100000 WHERE entry = 23572;
+UPDATE item_template SET BuyPrice = 150000 WHERE entry = 23572;
 
 -- NPC ITEMS
 DELETE FROM npc_vendor WHERE entry = @Entry;
