@@ -17,7 +17,7 @@ SET
 @Type       := 7,
 @TypeFlags  := 0,
 @FlagsExtra := 2,
-@AIName     := "SmartAI",
+@AIName     := "",
 @Script     := "";
 
 -- NPC
@@ -28,6 +28,9 @@ INSERT INTO `creature_template` (`entry`, `name`, `subname`, `IconName`, `gossip
 DELETE FROM `creature_template_model` WHERE `CreatureID` = @Entry;
 INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`) VALUES
 (@Entry, 0, @Model, @Scale, 1);
+
+-- ITEM PRICES
+UPDATE item_template SET BuyPrice = 16000 WHERE entry = 23572;
 
 -- NPC ITEMS
 DELETE FROM npc_vendor WHERE entry = @Entry;
